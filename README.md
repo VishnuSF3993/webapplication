@@ -1,3 +1,3 @@
 # webapplication
 
-This is GitHub demo.
+This is GitHub demo sample code.
